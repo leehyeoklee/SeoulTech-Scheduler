@@ -184,8 +184,6 @@ function generateColorFromString(input) {
 ![image](https://github.com/user-attachments/assets/3cbf02bc-b677-47b6-aaf8-3b0e9e60d218)
 
 ## 실행
-웹 링크: http://43.203.199.29 - AWS EC2에서 UBUNTU를 사용하여 서버를 구축하였습니다.
-
 로컬에서 실행 : ```uvicorn main:app --reload```
 ## Refernce
 * https://doyu-l.tistory.com/360 -  디자인 패턴 참고
